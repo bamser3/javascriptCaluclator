@@ -1,5 +1,3 @@
-This is my readme
-
 This is a basic command-line calculator built with javaScript.
 
 It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication and division, as operations are completed an array is populated with
